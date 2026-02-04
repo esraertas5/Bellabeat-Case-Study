@@ -55,10 +55,7 @@ The dataset contains 18 CSV files. Main files used:
 - Data visualized using **R programming**  
 - Visualizations include:  
   - Sleep duration and patterns  
-  - Activity levels vs. calories burned  
-  - Step count trends over time  
-
-*(Placeholder for images: add your charts in the `images/` folder and reference them using `![Alt text](images/image-1.png)`)*
+  - Activity levels vs. calories burned   
 
 ---
 
