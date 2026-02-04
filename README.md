@@ -51,8 +51,8 @@ The dataset contains 18 CSV files. Main files used:
 
 ---
 
-## Visualization
-- Data visualized using **R programming**  
+## Visualisation
+- Data visualised using **R programming**  
 - Visualizations include:  
   - Sleep duration and patterns  
   - Activity levels vs. calories burned   
@@ -76,15 +76,7 @@ The dataset contains 18 CSV files. Main files used:
 ## Tools Used
 - **Google BigQuery / SQL** – Data processing and analysis  
 - **R Programming** – Data visualization  
-- **Excel** – Optional for data cleaning and aggregation  
 
----
-
-## How to Use This Repository
-1. Clone or download the repository to your local machine  
-2. Open the dataset files in your preferred tool (BigQuery, Excel, R)  
-3. Run SQL queries or R scripts to reproduce the analysis and visualizations  
-4. View images and charts in the `images/` folder  
 
 ---
 
